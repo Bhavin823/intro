@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bhavin823
 - 👀 I’m interested in web devlopement in python
 - 🌱 I’m currently learning python with django
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhavinchavada242846@gmail.com
 
 <!---
